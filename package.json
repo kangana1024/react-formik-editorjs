@@ -1,0 +1,20 @@
+{
+  "name": "react-formik-editorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangana1024/react-formik-editorjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangana1024/react-formik-editorjs/issues"
+  },
+  "homepage": "https://github.com/kangana1024/react-formik-editorjs#readme"
+}
